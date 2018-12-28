@@ -193,7 +193,7 @@ import global from './Global.vue'
             for (var i = 0; i < files.length; i++) {
                 uploadData.append(files[i].name, files[i]);
             }
-            var imgUrl="http://www.liangyp.xyz";//http://192.168.112.128:8080
+            var imgUrl="http://123.207.50.125";//http://192.168.112.128:8080
             
             self.$axios({
               method:"post",

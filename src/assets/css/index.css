@@ -54,7 +54,7 @@ a.curPage { color: #19585d; font-weight: bold; }
 .picbox ul li a:hover { color: #19585d }
 .tags a { background: #F4650E; padding: 3px 8px; margin: 0 5px 0 0; color: #fff; }
 .tags { margin: 10px 0; }
-.infosbox img { max-width: 100%; height: auto; width: 100% }
+.infosbox img { max-width: 10%; height: auto; width: auto }
 .share { padding: 20px; }
 .nextinfo { line-height: 24px; width: 100%; overflow: hidden; margin: 20px 0 }/*��һƪ��һƪ*/
 .nextinfo p { padding: 4px 10px; border-radius: 5px; }
